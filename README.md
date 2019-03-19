@@ -1,0 +1,2 @@
+# BasicFunctionPlugin
+WordPress Demo Plugin
